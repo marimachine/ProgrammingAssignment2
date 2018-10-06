@@ -57,4 +57,4 @@ B1 <- makeCacheMatrix(B)
 cacheSolve(B1) 
         
 #To see that the cached data is retrived run the last command again
-acheSolve(B1)         
+cacheSolve(B1)         
